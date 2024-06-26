@@ -1,0 +1,11 @@
+2024-06-17 14:49:07,403 INFO o.s.b.StartupInfoLogger [main] Starting LoggingEs1Application using Java 21.0.2 with PID 2028 (C:\Users\busad\Desktop\Corso DevelHope\Java\Spring-Boot\Logging_Es1\target\classes started by busad in C:\Users\busad\Desktop\Corso DevelHope\Java\Spring-Boot\Logging_Es1)
+2024-06-17 14:49:07,409 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-06-17 14:49:08,425 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port 8080 (http)
+2024-06-17 14:49:08,436 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-17 14:49:08,439 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2024-06-17 14:49:08,439 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-17 14:49:08,534 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2024-06-17 14:49:08,535 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1077 ms
+2024-06-17 14:49:08,960 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2024-06-17 14:49:08,976 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port 8080 (http) with context path '/'
+2024-06-17 14:49:08,985 INFO o.s.b.StartupInfoLogger [main] Started LoggingEs1Application in 2.177 seconds (process running for 3.694)

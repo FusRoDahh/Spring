@@ -1,0 +1,14 @@
+var1: 2
+var2: 8
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+logging:
+  level:
+    root: INFO
+    com:
+      example:
+        Logging_Es1:
+          Service: DEBUG
+
